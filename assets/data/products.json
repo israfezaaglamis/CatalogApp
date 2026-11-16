@@ -1,0 +1,10 @@
+[
+  {"id":1,"title":"Kablosuz Kulaklık","description":"Aktif gürültü engelleme ve 30 saat pil ömrü sunan bluetooth kulaklık.","price":1899.90,"category":"Elektronik","image":"assets/images/electronics.png","rating":4.7,"stock":12},
+  {"id":2,"title":"Akıllı Saat","description":"Nabız ölçer, GPS ve uyku takibi özellikli su geçirmez akıllı saat.","price":2499.00,"category":"Elektronik","image":"assets/images/electronics.png","rating":4.5,"stock":7},
+  {"id":3,"title":"Pamuklu Sweatshirt","description":"%100 pamuk, rahat kesim, günlük kullanım için ideal sweatshirt.","price":649.50,"category":"Giyim","image":"assets/images/clothing.png","rating":4.3,"stock":25},
+  {"id":4,"title":"Spor Ayakkabı","description":"Hafif taban ve nefes alabilen kumaş ile koşu için tasarlandı.","price":1349.00,"category":"Giyim","image":"assets/images/clothing.png","rating":4.6,"stock":0},
+  {"id":5,"title":"Seramik Kupa Seti","description":"6 parçalı, bulaşık makinesinde yıkanabilir şık kupa seti.","price":389.90,"category":"Ev","image":"assets/images/home.png","rating":4.2,"stock":40},
+  {"id":6,"title":"Masa Lambası","description":"Ayarlanabilir ışık şiddetine sahip LED çalışma lambası.","price":459.00,"category":"Ev","image":"assets/images/home.png","rating":4.4,"stock":18},
+  {"id":7,"title":"Deri Cüzdan","description":"Gerçek deri, kart bölmeli ve fermuarlı kompakt cüzdan.","price":529.00,"category":"Aksesuar","image":"assets/images/accessories.png","rating":4.1,"stock":30},
+  {"id":8,"title":"Güneş Gözlüğü","description":"UV400 korumalı, polarize camlı şık güneş gözlüğü.","price":799.90,"category":"Aksesuar","image":"assets/images/accessories.png","rating":4.8,"stock":9}
+]
